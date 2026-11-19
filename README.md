@@ -61,117 +61,117 @@ The global AI-powered document management and office productivity software secto
 
 ## 💻 Open-Source GitHub Projects
 
-Sorted in descending order by GitHub community popularity (star count). Badges link directly to each repository's stargazers page.
+Sorted in descending order by GitHub community popularity (Stars_Count). Badges link directly to each repository's stargazers page.
 
-1. ### 📄 [MarkItDown](https://github.com/microsoft/markitdown) [![GitHub stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social&color=white)](https://github.com/microsoft/markitdown/stargazers)
+1. ### 📄 [MarkItDown](https://github.com/microsoft/markitdown) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social&color=white)](https://github.com/microsoft/markitdown/stargazers)
    - **Repository**: [`microsoft/markitdown`](https://github.com/microsoft/markitdown) | **License**: `MIT`
    - **Description**: Python utility and CLI for converting various office document formats (PDF, DOCX, XLSX, PPTX, HTML, audio transcriptions, and images with OCR) into clean Markdown optimized for LLM processing, indexing, and RAG pipelines.
 
-2. ### 💬 [Open WebUI](https://github.com/open-webui/open-webui) [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)
+2. ### 💬 [Open WebUI](https://github.com/open-webui/open-webui) [![GitHub_Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)
    - **Repository**: [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | **License**: `MIT`
    - **Description**: Feature-rich, self-hosted AI interface for Ollama and OpenAI-compatible APIs with native document upload, seamless local RAG embedding, multi-user role management, web search integration, and custom office assistant personas.
 
-3. ### 🏢 [Paperclip](https://github.com/paperclipai/paperclip) [![GitHub stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=social&color=white)](https://github.com/paperclipai/paperclip/stargazers)
+3. ### 🏢 [Paperclip](https://github.com/paperclipai/paperclip) [![GitHub_Stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=social&color=white)](https://github.com/paperclipai/paperclip/stargazers)
    - **Repository**: [`paperclipai/paperclip`](https://github.com/paperclipai/paperclip) | **License**: `MIT`
    - **Description**: Zero-human company and autonomous AI office orchestration platform that coordinates specialized AI agent teams, organizational charts, task budgets, and continuous business operations through a centralized dashboard.
 
-4. ### 🛠️ [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) [![GitHub stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)
+4. ### 🛠️ [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) [![GitHub_Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)
    - **Repository**: [`Stirling-Tools/Stirling-PDF`](https://github.com/Stirling-Tools/Stirling-PDF) | **License**: `MIT`
    - **Description**: Robust, locally hosted web application that performs all PDF manipulation operations—including OCR text recognition, merging, splitting, compressing, converting, and redaction—keeping all office files completely private.
 
-5. ### 🧩 [RAGFlow](https://github.com/infiniflow/ragflow) [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)
+5. ### 🧩 [RAGFlow](https://github.com/infiniflow/ragflow) [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)
    - **Repository**: [`infiniflow/ragflow`](https://github.com/infiniflow/ragflow) | **License**: `Apache-2.0`
    - **Description**: Open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding that extracts structured data, tables, and images from complex unstructured office documents (DOCX, PDF, PPT, Excel).
 
-6. ### 📱 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
+6. ### 📱 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
    - **Repository**: [`AppFlowy-IO/AppFlowy`](https://github.com/AppFlowy-IO/AppFlowy) | **License**: `AGPL-3.0`
    - **Description**: Open-source Notion alternative built with Flutter and Rust featuring local-first storage, relational databases, kanban boards, and local/cloud AI assistants for drafting and summarization.
 
-7. ### 🎨 [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
+7. ### 🎨 [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
    - **Repository**: [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE) | **License**: `MIT`
    - **Description**: Next-generation hyper-converged knowledge base merging Notion-style structured docs, Miro-style edgeless whiteboards, and local-first AI writing, translation, and diagramming tools.
 
-8. ### 📑 [Docling](https://github.com/docling-project/docling) [![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers)
+8. ### 📑 [Docling](https://github.com/docling-project/docling) [![GitHub_Stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers)
    - **Repository**: [`docling-project/docling`](https://github.com/docling-project/docling) | **License**: `MIT`
    - **Description**: Advanced document conversion package that parses PDF, DOCX, PPTX, and images into structured Markdown/JSON, reading complex multi-column layouts, tables, and formula equations for LLM applications.
 
-9. ### 🤖 [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) [![GitHub stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)
+9. ### 🤖 [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) [![GitHub_Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)
    - **Repository**: [`Mintplex-Labs/anything-llm`](https://github.com/Mintplex-Labs/anything-llm) | **License**: `MIT`
    - **Description**: All-in-one desktop and enterprise-ready AI workspace tool that turns documents, PDFs, URLs, and spreadsheets into conversational knowledge graphs with built-in vector search and multi-model support.
 
-10. ### 🎯 [Plane](https://github.com/makeplane/plane) [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
+10. ### 🎯 [Plane](https://github.com/makeplane/plane) [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
     - **Repository**: [`makeplane/plane`](https://github.com/makeplane/plane) | **License**: `AGPL-3.0`
     - **Description**: Modern open-source project management and product workspace alternative to Jira and ClickUp featuring Cycles, Modules, Pages (collaborative rich text docs), and AI-driven issue drafting.
 
-11. ### 📓 [Joplin](https://github.com/laurent22/joplin) [![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)
+11. ### 📓 [Joplin](https://github.com/laurent22/joplin) [![GitHub_Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)
     - **Repository**: [`laurent22/joplin`](https://github.com/laurent22/joplin) | **License**: `AGPL-3.0`
     - **Description**: Secure, open-source note-taking and to-do application with end-to-end encryption (E2EE), synchronization across devices, markdown editing, and an active plugin ecosystem for AI tools.
 
-12. ### 🗄️ [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) [![GitHub stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)
+12. ### 🗄️ [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) [![GitHub_Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)
     - **Repository**: [`paperless-ngx/paperless-ngx`](https://github.com/paperless-ngx/paperless-ngx) | **License**: `GPL-3.0`
     - **Description**: Community document management system that transforms physical paperwork and digital documents into a searchable online archive with OCR, automatic tagging, and correspondent detection.
 
-13. ### 🌿 [SiYuan](https://github.com/siyuan-note/siyuan) [![GitHub stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social&color=white)](https://github.com/siyuan-note/siyuan/stargazers)
+13. ### 🌿 [SiYuan](https://github.com/siyuan-note/siyuan) [![GitHub_Stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social&color=white)](https://github.com/siyuan-note/siyuan/stargazers)
     - **Repository**: [`siyuan-note/siyuan`](https://github.com/siyuan-note/siyuan) | **License**: `AGPL-3.0`
     - **Description**: Privacy-first personal knowledge management system supporting block-level bidirectional linking, local Markdown storage, PDF annotation, and integrated AI writing assistance.
 
-14. ### 🧠 [Logseq](https://github.com/logseq/logseq) [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)
+14. ### 🧠 [Logseq](https://github.com/logseq/logseq) [![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)
     - **Repository**: [`logseq/logseq`](https://github.com/logseq/logseq) | **License**: `AGPL-3.0`
     - **Description**: Privacy-first, local-first outliner and knowledge graph operating on plain Markdown and Org-mode files with flashcards, whiteboards, PDF annotation, and AI copilot plugins.
 
-15. ### 📖 [Outline](https://github.com/outline/outline) [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)
+15. ### 📖 [Outline](https://github.com/outline/outline) [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)
     - **Repository**: [`outline/outline`](https://github.com/outline/outline) | **License**: `BSL-1.1`
     - **Description**: Fast, collaborative team knowledge base and wiki for growing organizations with markdown editing, Slack/SSO integration, custom domains, and AI-assisted search.
 
-16. ### ⚡ [Marker](https://github.com/datalab-to/marker) [![GitHub stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers)
+16. ### ⚡ [Marker](https://github.com/datalab-to/marker) [![GitHub_Stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers)
     - **Repository**: [`datalab-to/marker`](https://github.com/datalab-to/marker) | **License**: `GPL-3.0`
     - **Description**: High-speed deep-learning pipeline that converts complex PDFs, EPUBs, and MOBI files into clean Markdown with 10x faster execution than traditional OCR, extracting tables, code blocks, and math equations.
 
-17. ### 🌳 [Trilium](https://github.com/TriliumNext/Trilium) [![GitHub stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers)
+17. ### 🌳 [Trilium](https://github.com/TriliumNext/Trilium) [![GitHub_Stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=social&color=white)](https://github.com/TriliumNext/Trilium/stargazers)
     - **Repository**: [`TriliumNext/Trilium`](https://github.com/TriliumNext/Trilium) | **License**: `AGPL-3.0`
     - **Description**: Hierarchical personal knowledge base designed for building large personal knowledge graphs with deep tree nesting, encryption, scripting, and automated attributes.
 
-18. ### 🔎 [Khoj](https://github.com/khoj-ai/khoj) [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)
+18. ### 🔎 [Khoj](https://github.com/khoj-ai/khoj) [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)
     - **Repository**: [`khoj-ai/khoj`](https://github.com/khoj-ai/khoj) | **License**: `AGPL-3.0`
     - **Description**: Self-hostable AI second brain and office research assistant that indexes local Markdown, PDFs, Notion, and GitHub for grounded conversational search and scheduled automations.
 
-19. ### ☁️ [Nextcloud Server & Assistant](https://github.com/nextcloud/server) [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)
+19. ### ☁️ [Nextcloud Server & Assistant](https://github.com/nextcloud/server) [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)
     - **Repository**: [`nextcloud/server`](https://github.com/nextcloud/server) | **License**: `AGPL-3.0`
     - **Description**: Flagship self-hosted content collaboration platform offering Files, Talk, Groupware, Office, and a privacy-first local AI Assistant for text summarization, dictation, and smart translation.
 
-20. ### 🔍 [Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx) [![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)
+20. ### 🔍 [Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx) [![GitHub_Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)
     - **Repository**: [`onyx-dot-app/onyx`](https://github.com/onyx-dot-app/onyx) | **License**: `MIT`
     - **Description**: Enterprise open-source AI search and question-answering assistant that connects to office tools (Slack, Google Drive, Confluence, Notion, GitHub) for accurate, permission-aware workplace Q&A.
 
-21. ### 📚 [Wiki.js](https://github.com/requarks/wiki) [![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)
+21. ### 📚 [Wiki.js](https://github.com/requarks/wiki) [![GitHub_Stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)
     - **Repository**: [`requarks/wiki`](https://github.com/requarks/wiki) | **License**: `AGPL-3.0`
     - **Description**: Extensible modern wiki app built on Node.js with Git backend storage, rich authentication options, and markdown/visual editing for internal company documentation.
 
-22. ### 🏢 [Huly](https://github.com/hcengineering/platform) [![GitHub stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)
+22. ### 🏢 [Huly](https://github.com/hcengineering/platform) [![GitHub_Stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)
     - **Repository**: [`hcengineering/platform`](https://github.com/hcengineering/platform) | **License**: `EPL-2.0`
     - **Description**: All-in-one open-source unified workspace platform replacing Linear, Jira, Slack, and Notion with integrated virtual office rooms, project tracking, CRM, and documents.
 
-23. ### 📝 [Docmost](https://github.com/docmost/docmost) [![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)
+23. ### 📝 [Docmost](https://github.com/docmost/docmost) [![GitHub_Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)
     - **Repository**: [`docmost/docmost`](https://github.com/docmost/docmost) | **License**: `AGPL-3.0`
     - **Description**: Collaborative open-source wiki and documentation platform featuring real-time multiplayer editing, built-in diagrams (Draw.io, Excalidraw, Mermaid), and spaces/permissions.
 
-24. ### 📚 [BookStack](https://github.com/BookStackApp/BookStack) [![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)
+24. ### 📚 [BookStack](https://github.com/BookStackApp/BookStack) [![GitHub_Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)
     - **Repository**: [`BookStackApp/BookStack`](https://github.com/BookStackApp/BookStack) | **License**: `MIT`
     - **Description**: Simple, self-hosted, easy-to-use platform for organizing and storing documentation and information organized by Books, Chapters, and Pages.
 
-25. ### 🔐 [Anytype](https://github.com/anyproto/anytype-ts) [![GitHub stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)
+25. ### 🔐 [Anytype](https://github.com/anyproto/anytype-ts) [![GitHub_Stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=social&color=white)](https://github.com/anyproto/anytype-ts/stargazers)
     - **Repository**: [`anyproto/anytype-ts`](https://github.com/anyproto/anytype-ts) | **License**: `Any Source Available`
     - **Description**: Local-first, peer-to-peer encrypted workspace organizing notes, documents, relations, and collections offline without centralized cloud lock-in.
 
-26. ### 💼 [ONLYOFFICE Docs](https://github.com/ONLYOFFICE/DocumentServer) [![GitHub stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=social&color=white)](https://github.com/ONLYOFFICE/DocumentServer/stargazers)
+26. ### 💼 [ONLYOFFICE Docs](https://github.com/ONLYOFFICE/DocumentServer) [![GitHub_Stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=social&color=white)](https://github.com/ONLYOFFICE/DocumentServer/stargazers)
     - **Repository**: [`ONLYOFFICE/DocumentServer`](https://github.com/ONLYOFFICE/DocumentServer) | **License**: `AGPL-3.0`
     - **Description**: Online office suite providing full-featured editors for text documents, spreadsheets, presentations, and PDFs with pluggable local/cloud AI assistants (ChatGPT, ZhiPu, Ollama).
 
-27. ### 🤖 [Paperless-AI](https://github.com/clusterzx/paperless-ai) [![GitHub stars](https://img.shields.io/github/stars/clusterzx/paperless-ai?style=social&color=white)](https://github.com/clusterzx/paperless-ai/stargazers)
+27. ### 🤖 [Paperless-AI](https://github.com/clusterzx/paperless-ai) [![GitHub_Stars](https://img.shields.io/github/stars/clusterzx/paperless-ai?style=social&color=white)](https://github.com/clusterzx/paperless-ai/stargazers)
     - **Repository**: [`clusterzx/paperless-ai`](https://github.com/clusterzx/paperless-ai) | **License**: `MIT`
     - **Description**: Automated document analyzer and RAG assistant for Paperless-ngx utilizing OpenAI or local Ollama models to auto-assign titles, tags, correspondents, and document types.
 
-28. ### 💻 [Collabora Online](https://github.com/CollaboraOnline/online) [![GitHub stars](https://img.shields.io/github/stars/CollaboraOnline/online?style=social&color=white)](https://github.com/CollaboraOnline/online/stargazers)
+28. ### 💻 [Collabora Online](https://github.com/CollaboraOnline/online) [![GitHub_Stars](https://img.shields.io/github/stars/CollaboraOnline/online?style=social&color=white)](https://github.com/CollaboraOnline/online/stargazers)
     - **Repository**: [`CollaboraOnline/online`](https://github.com/CollaboraOnline/online) | **License**: `MPL-2.0`
     - **Description**: Enterprise-grade collaborative web office suite powered by LibreOffice technology for real-time multi-user editing of DOCX, XLSX, PPTX, and ODF files.
 
@@ -190,7 +190,7 @@ Contributions are warmly welcome! To propose a new SaaS product or open-source r
 1. **Fork the repository** to your personal GitHub account.
 2. **Add the entry**:
    - For SaaS products, update the table with specific starter pricing, free tier limits, company valuation/revenue, and description.
-   - For open-source tools, include the repository link, star badge (`style=social&color=white`), license, and description.
+   - For open-source tools, include the repository link, Stars_Badge (`style=social&color=white`), license, and description.
 3. **Ensure quality**: Maintain factual, neutral descriptions and verify all URLs.
 4. **Submit a pull request** with a concise summary of the addition or update.
 
